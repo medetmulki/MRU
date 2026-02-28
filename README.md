@@ -72,7 +72,7 @@ MRU/
 ## 📄 Құжаттар
 
 - 📊 [Pitch Deck](https://github.com/user-attachments/files/25602887/MRU.pdf)
-- 📘 [Техникалық құжаттама](./technical_doc.pdf)
+- 📘 [Техникалық құжаттама](https://github.com/user-attachments/files/25618952/MVP.v1.0.pdf)
 -   [MRU презентация](https://github.com/user-attachments/files/25603811/-1-_2_.pdf)
 
 
