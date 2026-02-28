@@ -6,7 +6,7 @@ class AIDecisionEngine:
     LOW_THRESHOLD = 40        # Төмен деңгей (%)
     SAFE_THRESHOLD = 70       # Қауіпсіз деңгей (%)
     
-    def _init_(self):
+    def __init__(self):
         self.mode = "SOLAR"           # Бастапқы режим
         self.autonomous = False       # Автономды режим
         self.decision_log = []        # Шешімдер журналы
